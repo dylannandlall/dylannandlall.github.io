@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cybersecurity Blog # the main title
+title: Dylan Nandlall's Blog # the main title
 
-tagline: A personal blog dedicated to stuff I find cool and interesting to share # it will display as the subtitle
+tagline: A personal cybersecurity blog dedicated to stuff I find cool and interesting to share # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Personal blog 
