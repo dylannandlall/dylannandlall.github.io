@@ -102,7 +102,7 @@ Before you run the command to deploy the chart onto the k0s cluster, lets create
 
 ```yaml
 podLabels:
-	app: stirling-pdf
+  app: stirling-pdf
 ```
 
 This is all you have to place in your values.yaml file. Once that is done, we can now go ahead with the chart deployment.
